@@ -1,3 +1,8 @@
+## UNRELEASED
+
+* Upgrade [pry][pry] to the latest 0.10.1
+* Replace [pry-debugger][pry-debugger] dependency with [pry-byebug][pry-byebug]
+
 ## 0.5.2 (2013-10-24)
 
 * Upgrade [pry-rails][pry-rails] to the latest 0.3.2,
@@ -121,3 +126,4 @@
 [pry-stack_explorer]: https://github.com/pry/pry-stack_explorer
 [pry-debugger]:       https://github.com/nixme/pry-debugger
 [pry-rails]:          https://github.com/rweng/pry-rails
+[pry-byebug]:         https://github.com/deivid-rodriguez/pry-byebug
