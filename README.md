@@ -34,7 +34,7 @@ Add the following to your project's Gemfile:
 
 ```ruby
 group :development, :test do
-  gem 'jazz_hands', github: 'jkrmr/jazz_hands', branch: 'byebug_and_updated_pry'
+  gem 'jazz_hands', github: 'craftybase/jazz_hands'
 end
 ```
 
