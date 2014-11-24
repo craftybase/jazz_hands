@@ -26,8 +26,8 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'pry-stack_explorer', '~> 0.4.9'
   gem.add_runtime_dependency 'pry-remote', '>= 0.1.8'
   gem.add_runtime_dependency 'pry-byebug', '>= 2.0.0'
-  gem.add_runtime_dependency 'hirb', '~> 0.7.1'
-  gem.add_runtime_dependency 'pry-coolline', '>= 0.2.4'
+  gem.add_runtime_dependency 'pry-coolline', '>= 0.2.5'
+  gem.add_runtime_dependency 'hirb', '~> 0.7.2'
   gem.add_runtime_dependency 'awesome_print', '~> 1.2'
   gem.add_runtime_dependency 'railties', '>= 3.0', '< 5.0'
 end
